@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -Arlt | tail -n 10
